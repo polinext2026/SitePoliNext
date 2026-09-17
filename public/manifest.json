@@ -1,0 +1,16 @@
+{
+  "name": "POLINEXT",
+  "short_name": "POLINEXT",
+  "description": "IDEIAS QUE CONECTAM O AMANHÃ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08090B",
+  "theme_color": "#257CFF",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
